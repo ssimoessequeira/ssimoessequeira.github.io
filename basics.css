@@ -1,0 +1,41 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2em;
+    color: #ffeead;
+    text-align: center;
+}
+
+html, body {
+  background-color: #ffeead;
+  margin: 10px;
+}
+
+.logo {
+  background-color: #96ceb4;	
+}
+
+.scroll {
+  background-color: #88d8b0;
+  overflow-x: scroll;
+  overflow-y: hidden;
+  white-space: nowrap;
+}
+.card {
+  display: inline-block;
+  width: 300px;
+  height: 600px;
+  background-color: greenyellow;
+}
+
+nav {
+      background-color: #ff6f69;
+}
+
+article {
+      background-color: #ffcc5c;
+}
+footer{
+  background-color: #ffcc5c;
+}
