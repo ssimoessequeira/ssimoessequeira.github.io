@@ -2,7 +2,7 @@
     display: grid;
     grid-gap: 6px;
     height: 100% ;
-    grid-template-columns: 3fr;
+    grid-template-columns: 1fr;
     grid-template-rows: 20% 10% 40% auto;
     grid-template-areas: 
         "l"
@@ -11,9 +11,9 @@
         "a"
         "f";    
 }
-/* .logo {
+.logo {
     grid-area: l;
-} */
+}
 .scroll {
     grid-area: h;
 }
