@@ -1,0 +1,4 @@
+# boilerPlate
+Basic starting file structure for Umass Dartmouth.  A template used from w3schools as a base for more complex features (ex: contact me page with form). Contains an index.htlm and a main.css.  There are two folders for images, one for portfolio pieces and one images on the website.  
+
+When the webpage is live, the code should show a portfolio webpage that contains one page with multiple sections.  The sections are an about me, portfolio, and contact section.  These sections have been linked to the navbar located at the top of the page.  All background images should be a solid pink color, while all images should expand to a full size on a new or current web page.  All buttons are clickable, but some are not fully functionale (ex: buttons in the footer that link to social media) 
